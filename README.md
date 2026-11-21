@@ -1,4 +1,4 @@
-# Paraná Banco — Proposta de Crédito
+# Banco — Proposta de Crédito
 
 Microsserviço que consome o evento `ClienteCadastrado`, calcula o score de crédito,
 gera a proposta e publica o evento `PropostaGerada`. É o elo central do fluxo: atua
